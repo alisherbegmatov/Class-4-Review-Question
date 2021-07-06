@@ -1,0 +1,18 @@
+/* Question 1 */
+div {
+	color: #ffa500; opacity: 0.25;
+}
+
+/* Question 2 */
+button {
+	background-image: url("arrow.png");
+	float: right;
+	clear: right
+}
+
+/* Question 3 */
+h1 {
+	background-image: url("pattern.png");
+	background-repeat: repeat-x;
+	padding-bottom: 10px;
+}
